@@ -1,7 +1,7 @@
 # 💱 Currency Converter - Конвертер валют
 
-**Автор:** Ваше ФИО   
-**GitHub:** [https://giterse.ru/Ваш_Ник/имя_репозитория](https://giterse.ru/Ваш_Ник/имя_репозитория)
+**Автор:** Пономаренко Дарья Сергеевна 
+**GitHub:** [https://github.com/dfsffdfs/itog.git](https://github.com/dfsffdfs/itog.git)
 
 ## 📖 Описание
 
